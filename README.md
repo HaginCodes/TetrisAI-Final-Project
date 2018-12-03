@@ -29,6 +29,6 @@ To configure the depth of the DFS search, set `LOOK_AHEAD` to 1 or 2 in `ai_conf
 To run the program:
 ```sh
 python3 main.py
-
+```
 
 Copyright &copy; 2017 Hagin Onyango  &lt;hagincubes@gmail.com&gt;
